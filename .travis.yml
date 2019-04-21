@@ -4,7 +4,7 @@ node_js:
 - '6'
 // Script to install dependencies
 before_script:
-- cd web
+-  cd web
 script: npm run build
 deploy:
   provider: firebase
