@@ -94,7 +94,7 @@ const styles = {
                  <MenuIcon />
                </IconButton>
                <Typography variant="h5" color="inherit" className={classes.grow}>
-                 React Firebase Blog
+                 Fireact
                </Typography>
             <Button color="inherit"> <Link to={ROUTES.SIGN_IN} className={classes.navlink}> Login</Link></Button>
            </Toolbar>
