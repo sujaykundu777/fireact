@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Signup extends Component{
     render(){
         return(
-           <h1> Register </h1>
+           <h1> Welcome ! Please Register</h1>
 
            
         );
